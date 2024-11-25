@@ -23,10 +23,6 @@
     --text-xl: 4rem;
 }
 
-/* html{
-    zoom: .5;
-} */
-
 html, button {
     font: 500 1rem/1.5 var(--ff-base);
 }
