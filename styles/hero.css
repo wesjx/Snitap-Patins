@@ -136,9 +136,10 @@ section.hero {
 
 
 @keyframes slideIn {
-     50% {
+    50% {
         transform: translateX(-20px);
-     }
+    }
+
     100% {
         transform: translateX(0);
     }
@@ -223,5 +224,27 @@ section.hero {
 
     100% {
         transform: translateY(-15rem);
+    }
+}
+
+@media (width <=60em) {
+    section.hero {
+        justify-content: space-between;
+        flex-direction: column-reverse;
+        align-items: center;
+
+    }
+
+    & .buttons {
+        flex-direction: column-reverse;
+    }
+}
+
+@media (width <=45em) {
+    section.hero {
+
+        &>div:nth-child(2) {
+            height: 20.5rem;
+        }
     }
 }
