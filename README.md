@@ -9,7 +9,7 @@ This is a simple project I created to practice **HTML** and **CSS animations**. 
 - Simple and clean layout.
 
 ## 📸 Preview
-![Site Preview](assets/images/preview.png)](https://wesjx.github.io/Snitap-Patins/)
+![Site Preview](assets/images/preview.png)(https://wesjx.github.io/Snitap-Patins/)
 Click on the image to acess the website
 
 ## 💻 Technologies Used
