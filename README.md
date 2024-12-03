@@ -19,6 +19,6 @@ Click on the image to acess the website
 🙌 Learnings
 This project helped me improve my understanding of:
 
-CSS animations and how to use @keyframes.
-Responsive design principles.
-Structuring small projects effectively.
+- CSS animations and how to use @keyframes.<br>
+- Responsive design principles.<br>
+- Structuring small projects effectively.
